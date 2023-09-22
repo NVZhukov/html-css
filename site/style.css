@@ -223,7 +223,7 @@ img {
 }
 
 .middle-title p {
-  color: #9f9f9f;
+  color: #787474;
   font-size: 14px;
   font-weight: 400;
   padding-bottom: 48px;
@@ -299,7 +299,7 @@ img {
 }
 
 .product-card h4 {
-  color: #f16d7f;
+  color: #d75869;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -317,7 +317,7 @@ img {
   font-size: 16px;
   font-weight: 400;
   background: none;
-  border: 1px #ff6a6a solid;
+  border: 1px #f26376 solid;
   padding: 15px 39px;
 }
 
@@ -444,7 +444,7 @@ img {
 }
 
 .subscribe_form button {
-  background-color: #f16d7f;
+  background-color: #cb4759;
   border: none;
   border-radius: 0 30px 30px 0;
   width: 100px;
