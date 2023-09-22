@@ -1,3 +1,5 @@
+@import "./fonts/stylesheet.css";
+
 * {
   margin: 0;
   padding: 0;
@@ -87,6 +89,10 @@ img {
   color: #222;
   font-size: 32px;
   font-weight: 700;
+}
+
+.hidden-menu {
+  display: none;
 }
 
 .dropdown__menu {
