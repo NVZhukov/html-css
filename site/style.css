@@ -141,7 +141,7 @@ img {
 }
 
 .women-clothes {
-  background-image: url(./img/category1.png);
+  background-image: url(./img/category1.webp);
   width: 360px;
   height: 260px;
 }
@@ -170,7 +170,7 @@ img {
 }
 
 .men-clothes {
-  background-image: url(./img/category2.png);
+  background-image: url(./img/category2.webp);
   width: 360px;
   height: 260px;
 }
@@ -185,7 +185,7 @@ img {
 }
 
 .kids-clothes {
-  background-image: url(./img/category3.png);
+  background-image: url(./img/category3.webp);
   width: 360px;
   height: 260px;
 }
@@ -200,7 +200,7 @@ img {
 }
 
 .accesories-card {
-  background-image: url(./img/category4.png);
+  background-image: url(./img/category4.webp);
   width: 1140px;
   height: 180px;
 }
@@ -373,7 +373,7 @@ img {
 }
 
 .subscribe {
-  background-image: url(./img/subscribe_bgi.png);
+  background-image: url(./img/subscribe_bgi.webp);
   background-size: cover;
   height: 448px;
 }
@@ -540,25 +540,25 @@ img {
   }
 
   .women-clothes {
-    background-image: url(./img/category1-2.png);
+    background-image: url(./img/category1-2.webp);
     width: 232px;
     height: 168px;
   }
 
   .men-clothes {
-    background-image: url(./img/category2-2.png);
+    background-image: url(./img/category2-2.webp);
     width: 232px;
     height: 168px;
   }
 
   .kids-clothes {
-    background-image: url(./img/category3-2.png);
+    background-image: url(./img/category3-2.webp);
     width: 232px;
     height: 168px;
   }
 
   .accesories-card {
-    background-image: url(./img/category4-2.png);
+    background-image: url(./img/category4-2.webp);
     width: 735px;
     height: 117px;
   }
