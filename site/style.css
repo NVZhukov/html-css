@@ -299,7 +299,7 @@ img {
 }
 
 .product-card h4 {
-  color: #d75869;
+  color: #b54655;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -313,11 +313,11 @@ img {
 }
 
 .all-product-btn {
-  color: #f26376;
+  color: #c14b5a;
   font-size: 16px;
   font-weight: 400;
   background: none;
-  border: 1px #f26376 solid;
+  border: 1px #c14b5a solid;
   padding: 15px 39px;
 }
 
